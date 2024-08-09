@@ -1,18 +1,10 @@
-## Getting Started
+# Probando Github y juego en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Estableciendo conexión con Github mediante Visual Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+# Herramientas usadas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Vusal Studio Code.
+2. Comandos de pusheo Github.
+3. Jdk de Java.
